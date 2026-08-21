@@ -1,5 +1,9 @@
 # Implementation of Erosion and Dilation Using OpenCV
+## Developed By
 
+**Name:** P.Bhavankumar
+
+**Register No:** 212225240026
 ## Aim
 
 To write a Python program using OpenCV to perform morphological operations such as Erosion and Dilation on an image.
@@ -57,11 +61,7 @@ Compare the original, eroded, and dilated images.
 
 ## Program
 
-## Developed By
 
-**Name:** ____________________________
-
-**Register No:** ______________________
 
 ## Output:
 ```import cv2
@@ -107,7 +107,7 @@ plt.show()
 - The image serves as the input for morphological processing.
 
   
-img width="404" height="291" alt="637314480-89a34676-b9de-4341-a24b-703d37ef805f" src="https://github.com/user-attachments/assets/f7361a94-d6d3-498e-980a-3a005ef39792" />
+<img width="404" height="291" alt="637314480-89a34676-b9de-4341-a24b-703d37ef805f" src="https://github.com/user-attachments/assets/f7361a94-d6d3-498e-980a-3a005ef39792" />
 
 
 
